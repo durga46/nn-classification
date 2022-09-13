@@ -13,8 +13,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-![nn model](https://user-images.githubusercontent.com/75235704/189854444-b2a38fb1-9efd-4308-96a9-9d2e764c851d.png)
-
+![nn model 1](https://user-images.githubusercontent.com/75235704/189881763-1bc336f6-bfb8-417e-b5e3-6a0572d72bf6.png)
 
 
 ## DESIGN STEPS
@@ -186,20 +185,21 @@ print(le.inverse_transform(x_single_prediction))
 ![o1](https://user-images.githubusercontent.com/75235704/189855619-ed1fc2f4-3b7a-4f9a-bb55-697b12adae1e.png)
 
 ## OUTPUT
-![o2](https://user-images.githubusercontent.com/75235704/189855660-1dc91815-909d-4ed2-9eaf-0fb96e57a2e7.png)
 
 
 ## Training Loss, Validation Loss Vs Iteration Plot
-![03](https://user-images.githubusercontent.com/75235704/189855768-f7d9dc5d-c6ee-405e-aecc-86e1448e54fc.png)
+![o2](https://user-images.githubusercontent.com/75235704/189855660-1dc91815-909d-4ed2-9eaf-0fb96e57a2e7.png)
+
 
 
 ### Classification Report
-![o4](https://user-images.githubusercontent.com/75235704/189855835-45f87640-c079-4b6c-bd3c-333471285930.png)
+![03](https://user-images.githubusercontent.com/75235704/189855768-f7d9dc5d-c6ee-405e-aecc-86e1448e54fc.png)
+
 
 
 ### Confusion Matrix
 
-
+![o4](https://user-images.githubusercontent.com/75235704/189855835-45f87640-c079-4b6c-bd3c-333471285930.png)
 
 
 ### New Sample Data Prediction
@@ -208,3 +208,4 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ## RESULT
+Thus,a neural network classification model for the given dataset is developed.
