@@ -194,6 +194,12 @@ print(le.inverse_transform(x_single_prediction))
 ## Confusion Matrix
 ![o4](https://user-images.githubusercontent.com/75235704/189855835-45f87640-c079-4b6c-bd3c-333471285930.png)
 
+<br>
+<br>
+<br>
+<br>
+
+
 ## New Sample Data Prediction
 
 ![05](https://user-images.githubusercontent.com/75235704/189855974-579d1537-d149-420d-9356-dc7a890699d8.png)
