@@ -1,5 +1,5 @@
 
-## EX.NO.01
+## EX.NO.02
 ## DATE: 11.09.2022
 # <p align="center">Developing a Neural Network Classification Model</p>
 
@@ -198,7 +198,15 @@ print(le.inverse_transform(x_single_prediction))
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## New Sample Data Prediction
 
