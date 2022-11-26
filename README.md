@@ -4,7 +4,6 @@
 # <p align="center">Developing a Neural Network Classification Model</p>
 
 ## AIM
-
 To develop a neural network classification model for the given dataset.
 
 ## Problem Statement
@@ -23,7 +22,6 @@ You are required to help the manager to predict the right group of the new custo
 
 ### STEP 1:
 Loading the dataset.
-
 ### Step 2:
 Checking the null values and converting the string datatype into integer or float datatype using label encoder.
 ### Step 3:
@@ -191,6 +189,7 @@ print(le.inverse_transform(x_single_prediction))
 <br>
 <br>
 <br>
+
 ## Dataset Information
 
 ![o1](https://user-images.githubusercontent.com/75235704/189855619-ed1fc2f4-3b7a-4f9a-bb55-697b12adae1e.png)
